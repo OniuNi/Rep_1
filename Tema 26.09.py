@@ -19,42 +19,6 @@ class Cerc:
         print("a")
     def circumferinta_cerc(self):
         print("b")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #4.Clasa Cont
 #Atribute: iban, titular_cont, sold
 #Constructor pentru toate
